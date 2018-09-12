@@ -1,1 +1,1 @@
-# React-Redux-Node-MongoDB-JWT
+# React Redux Node MongoDB JWT Authentication Example
